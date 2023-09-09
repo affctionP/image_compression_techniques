@@ -1,4 +1,6 @@
 # image_compression_techniques
-a toturial about image compression
-یک مطالعه در مورد انواع روش های فشرده سازی تصویر به همراه 
-پیاده سازی روش ها در پایتون
+
+
+Comparison and implementation of image compression methods with Python and toutrial about image processing
+
+
